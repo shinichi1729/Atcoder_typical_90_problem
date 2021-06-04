@@ -21,7 +21,7 @@ def main():
         K -= data[N]
         cycle = cnt - data[N] + 1
         K %= cycle
-        K = K+data[N]
+        K = K+data[N]  # ここはmodを撮らないのがポイント
         print(data.index(K))
 
 
