@@ -28,6 +28,7 @@ def main():
 
     # output
     print(result)
+    return
 
 
 if __name__ == '__main__':
