@@ -1,3 +1,3 @@
 # Atcoder_typical_90_ploblem
-競プロ典型90問のpythonによる自作の解答ソースコードです.
+競プロ典型90問のpythonによる解答ソースコードです.\n
 link: https://twitter.com/e869120/status/1376089196100653060
