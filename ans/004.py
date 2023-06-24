@@ -4,6 +4,7 @@ def main():
     A = [list(map(int, input().split())) for _ in range(H)]
 
     H_sum, W_sum = [], []
+    tmp = None
 
     # 横方向の和を求め, H_sumに格納
     for h in range(H):
